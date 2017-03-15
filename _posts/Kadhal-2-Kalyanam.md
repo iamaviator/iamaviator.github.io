@@ -2,7 +2,7 @@
 
 ---
 layout: post
-title: கல்யாணம் to காதல் !!!
+title: கல்யாணம் to காதல்
 ---
 
 Written by Jagadeesh J
